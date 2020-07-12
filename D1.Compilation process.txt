@@ -1,0 +1,11 @@
+1. When first enter, it will ask user to create master password
+2. When reenter, it will ask user to verify by using the master password
+3. After veridied, it will automatically check the integrity. It will report if check fails.
+4. User can input following orders:
+                register_account
+		check_integrity
+		delete_account
+		get_password
+		change_account
+		END
+5. System will prompt user for other inputs after receving an order. 

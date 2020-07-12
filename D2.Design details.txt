@@ -1,0 +1,4 @@
+1. For hashing, it uses SHA 512 to hash the master password
+2. For enryption, program uses boucy castle AES-CTR block cipher encryption 
+3. with key generated only when the master password is entered correctly. 
+4. It uses Hash MAC function to get and store the authentification code for integrition check.
